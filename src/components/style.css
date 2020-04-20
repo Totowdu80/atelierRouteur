@@ -1,0 +1,24 @@
+.navbar {
+  background-color: black;
+  display: flex;
+  padding: 20px;
+  justify-content: space-around;
+  align-items: center;
+  text-decoration: none;
+  color: whitesmoke;
+  list-style: none;
+}
+
+.active {
+  text-decoration: none;
+  color: whitesmoke;
+  background-color: yellowgreen;
+}
+
+.container {
+  padding: 50px;
+  background-color: cornflowerblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
